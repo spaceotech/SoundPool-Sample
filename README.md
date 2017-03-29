@@ -7,6 +7,6 @@ This tutorial guides you to use SoundPool Builder for managing sound in Android 
 Read this step-by-step guide on how to use [SoundPool Builder to manage sound in Android app](https://www.spaceotechnologies.com/soundpool-play-bundled-sound-asynchronously-android-tutorial/). 
 
 
-I am a Sr. Android Developer at Space-O Technologies, trusted [android app development company](http://www.spaceotechnologies.com/android-app-development/) in India. Apart from coding, I do spend time with my family.
+
 
 
